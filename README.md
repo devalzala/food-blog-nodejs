@@ -2,4 +2,4 @@
 
 
 <h3> Made a food-blog-app using Nodejs, Expressjs and MongoDb Atlas</h3>
-<h4>Here we can add different recipes of American, Indian, Mexican foods as well as also add image of it.</h4>
+<h4>Here we can add different recipes of American, Indian, Mexican etc. foods as well as also add image of it.</h4>
